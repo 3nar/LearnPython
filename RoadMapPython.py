@@ -1,7 +1,7 @@
 
 
 
-# file name : LearnPython.py
+# file name : RoadMapPython.py
 # Discribtion : in this file, we will learn python details , step by step , with a profissonal roadmap
 # auther : Nasser hadi
 # github : https://github.com/3nar
@@ -133,13 +133,13 @@ print("Hello, World!")
 ```
 
 ### **Running a Python Script**
-Create a file called `LearnPython.py` and write:
+Create a file called ``RoadMapPython.py` and write:
 ```python
 print("Hello, Python!")
 ```
 Run it using:
 ```bash
-python LearnPython.py
+python RoadMapPython.py
 ```
 
 '''
