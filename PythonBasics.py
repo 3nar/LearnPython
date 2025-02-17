@@ -1,7 +1,6 @@
 
 
 
-
 # file name : PythonBasics.py
 # Discription : now we are learning python basics
 # author : Nasser hadi
@@ -10,7 +9,7 @@
 
 
 
-# Python Basics - Variables, Data Types, and Input/Output**
+# Python Basics - Variables, Data Types, and Input/Output
 
 '''
 ## **1. Variables in Python**
@@ -129,5 +128,6 @@ print(a and b)  # False
 print(a or b)   # True
 print(not a)    # False
 ```
+---
 
 '''

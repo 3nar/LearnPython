@@ -2,13 +2,14 @@
 
 
 # file name : RoadMapPython.py
-# Discribtion : in this file, we will learn python details , step by step , with a profissonal roadmap
+# Discription : in this file, we will learn python details , step by step , with a profissonal roadmap
 # auther : Nasser hadi
 # github : https://github.com/3nar
 
 
 
-# road map to learn python
+
+# Road Map to Learn Python
 
 '''
 ### **1. Python Basics**
@@ -141,7 +142,6 @@ Run it using:
 ```bash
 python RoadMapPython.py
 ```
+---
 
 '''
-
-print("hello world!")
